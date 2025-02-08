@@ -23,7 +23,7 @@ const Navbar = () => {
             </ul>
         </div>
 
-        <div className='flex space-x-8 text-[#23A6F0] p-[5px] items-center w-[324px] h-[54px] ml-[500px]'>
+        <div className='flex space-x-8 text-[#23A6F0] p-[5px] items-center  h-[54px] '>
             <BsPerson className=' m-[5px] h-[16px] w-[16px] '/>
             Login / Register
             <BsSearch className='m-[5px]  h-[16px] w-[16px]'/>
